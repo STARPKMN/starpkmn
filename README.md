@@ -5,11 +5,10 @@
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/9dmuna.png"/>
+<img src="https://files.catbox.moe/4r795o.png"/>
 </p>
 <div align="center">
   
-**esp <img src="https://watermelon.crd.co/assets/images/gallery05/267c3a89.gif?v=6332de85"/> eng**
 </p>
 
 <div align="center">
