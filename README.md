@@ -14,7 +14,7 @@
 
 <div align="center">
   
-[carrd](https://cursed-speech.carrd.co) [atabook](https://starpkmn.atabook.org) [strawpage](https://starpkmn.straw.page) [walloftext](https://walloftext.co/starpkm) 
+[guns](https://guns.lol/starpkmn) [atabook](https://starpkmn.atabook.org) [strawpage](https://starpkmn.straw.page) [walloftext](https://walloftext.co/starpkm) 
 
 
 
