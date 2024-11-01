@@ -14,7 +14,8 @@
 
 <div align="center">
   
-[guns](https://guns.lol/starpkmn) [atabook](https://starpkmn.atabook.org) [strawpage](https://starpkmn.straw.page) [walloftext](https://walloftext.co/starpkm) 
+
+[RENTRY](https://rentry.co/starpkm) [walloftext](https://walloftext.co/starpkm) 
 
 
 
