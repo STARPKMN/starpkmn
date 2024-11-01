@@ -5,17 +5,12 @@
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/bf7nok.png"
-"/>
-</p>
-<div align="center">
-  
-</p>
+<a href="https://pokemondb.net/pokedex/lugia"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/mismagius.gif" alt="Lugia"></a>
 
 <div align="center">
   
 
-[RENTRY](https://rentry.co/starpkm) 
+####[RENTRY](https://rentry.co/starpkm) 
 
 
 
