@@ -15,7 +15,7 @@
 <div align="center">
   
 
-[RENTRY](https://rentry.co/starpkm) [walloftext](https://walloftext.co/starpkm) 
+[RENTRY](https://rentry.co/starpkm) 
 
 
 
