@@ -14,7 +14,7 @@
 <div align="center">
   
 ##### <p align="center">⠀she/her⠀ ghost type trainer esp/eng
-##### [rentry](https://rentry.co/starpkm) <a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/j813f4.gif" alt="Lugia"></a> [atabook](https://starpkmn.atabook.org/) <a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/jm62ud.gif" alt="Lugia"></a> [strawpage](https://starpkmn.straw.page)⠀
+##### [rentry](https://rentry.co/starpkm)  [atabook](https://starpkmn.atabook.org/)  [strawpage](https://starpkmn.straw.page)⠀
 ##### [stamps](https://github.com/m4inecoons/bobtail/blob/main/README.md)
 
   
