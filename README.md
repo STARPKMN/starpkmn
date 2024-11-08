@@ -13,7 +13,7 @@
   <a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/kn979u.gif" alt="Lugia"></a>
 <div align="center">
   
-##### <p align="center">⠀she/her⠀ spanish⠀⠀local weido
+##### <p align="center">⠀she/her⠀ ghost type trainer esp/eng
 ##### [rentry](https://rentry.co/starpkm)  [atabook](https://starpkmn.atabook.org/)  [strawpage](https://starpkmn.straw.page)⠀
 ##### [stamps](https://github.com/m4inecoons/bobtail/blob/main/README.md)
 
