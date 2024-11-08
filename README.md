@@ -6,8 +6,11 @@
 </p>
 
 <p align="center">
-<a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/xxy0rh.gif" alt="Lugia"></a>
-
+<a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/nfmdcf.gif" alt="Lugia"></a>  
+<a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/dr74pt.gif" alt="Lugia"></a>
+  <a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/1s5ro4.gif" alt="Lugia"></a>
+  <a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/jnz3zi.gif" alt="Lugia"></a>
+  <a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/kn979u.gif" alt="Lugia"></a>
 <div align="center">
   
 ##### <p align="center">⠀she/her⠀ spanish⠀⠀local weido
@@ -16,6 +19,6 @@
 
   
 
-![](https://komarev.com/ghpvc/?username=starpkmn&color=393939&style=flat-square&label=ꔫ)
+![](https://komarev.com/ghpvc/?username=starpkmn&color=6b4a94&style=flat-square&label=ꔫ)
 
 
