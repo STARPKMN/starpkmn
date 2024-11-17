@@ -13,11 +13,14 @@
   <a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/kn979u.gif" alt="Lugia"></a>
 <div align="center">
   
-##### <p align="center">⠀she/her⠀ ghost type trainer esp/eng
-##### [rentry](https://rentry.co/starpkm)  [atabook](https://starpkmn.atabook.org/)  [strawpage](https://starpkmn.straw.page)⠀
-##### [stamps](https://github.com/m4inecoons/bobtail/blob/main/README.md)
+ <p align="center">⠀
 
+   
+<sup>**star⠀7teen⠀she/her** </sub></sup>
   
+  <sup>[**rentry**](https://rentry.co/starpkm)⠀★⠀[**atabook**](https://starpkmn.atabook.org/)⠀★⠀[**strawpage**](https://starpkmn.straw.page)⠀★⠀[**stamps**](https://github.com/m4inecoons/bobtail/blob/main/README.md)</sub> <sup>
+
+ 
 
 ![](https://komarev.com/ghpvc/?username=starpkmn&color=6b4a94&style=flat-square&label=ꔫ)
 
