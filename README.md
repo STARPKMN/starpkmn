@@ -16,7 +16,7 @@
 
    
 <sup>**star⠀7teen⠀she/her** </sub></sup> <br>
-  <sup>[**rentry**](https://rentry.co/starpkm)⠀★⠀[**atabook**](https://starpkmn.atabook.org/)⠀★⠀[**strawpage**](https://starpkmn.straw.page)⠀★⠀[**walloftext**](walloftext.starpkm) ★ [**stamps**](https://github.com/m4inecoons/bobtail/blob/main/README.md)⠀</sub> <sup>
+  <sup>[**rentry**](https://rentry.co/starpkm)⠀★⠀[**atabook**](https://starpkmn.atabook.org/)⠀★⠀[**strawpage**](https://starpkmn.straw.page)⠀★⠀[**walloftext**](https://walloftext.co/starpkm)  ★ [**stamps**](https://github.com/m4inecoons/bobtail/blob/main/README.md)⠀</sub> <sup>
 <br><br>
 ![](https://komarev.com/ghpvc/?username=starpkmn&color=6b4a94&style=flat-square&label=ꔫ)
 
