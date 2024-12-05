@@ -15,7 +15,6 @@
  <p align="center">⠀
 
    
-<sup>**star⠀7teen⠀she/her** </sub></sup> <br>
   <sup> [**rentry**](https://rentry.co/starpkm)⠀⠀[**atabook**](https://starpkmn.atabook.org/)⠀ ⠀[**strawpage**](https://starpkmn.straw.page)  ⠀
   [**color my tree**](https://colormytree.me/2024/01JE0ZKP8JDKNM4W4Q3F4M3S4V) ![](https://files.catbox.moe/o5e251.gif)
 <br><br>
