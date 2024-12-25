@@ -15,7 +15,7 @@
  <p align="center">⠀
 
    
-  <sup> [**rentry**](https://rentry.co/starpkm)⠀⠀[**atabook**](https://starpkmn.atabook.org/)⠀ ⠀[**strawpage**](https://starpkmn.straw.page)  ⠀
+  <sup> [**rentry**](https://rentry.co/starpkm)⠀⠀[**atabook**](https://starpkmn.atabook.org/)⠀⠀[**strawpage**](https://starpkmn.straw.page)  ⠀
  
 ![](https://komarev.com/ghpvc/?username=starpkmn&color=6b4a94&style=flat-square&label=ꔫ)
 
