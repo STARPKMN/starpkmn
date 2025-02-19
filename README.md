@@ -1,9 +1,9 @@
 <p align="center">
-<a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/uf1jsk.gif" alt="N"></a>  
+<a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/kcgxew.gif" alt="N"></a>  
   
 <div align="center">
   
-<sup>[**rentry**](https://rentry.co/starpkm)⠀⠀✦⠀⠀[**atabook**](https://starpkmn.atabook.org)⠀⠀✦⠀[walloftext](https://walloftext.co/starpkm)⠀⠀✦⠀[strawpage](https://starpkmn.straw.page)</sub></sup>
+<sup>[**rentry**](https://rentry.co/starpkm)⠀⠀✦⠀⠀[**atabook**](https://starpkmn.atabook.org)⠀⠀</sub></sup>
 
 <div align="center"> 
   
