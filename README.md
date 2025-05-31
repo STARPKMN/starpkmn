@@ -3,7 +3,10 @@
   
 <div align="center">
   
-<sup>[**rentry**](https://rentry.co/starpkm)⠀⠀✦⠀⠀[**atabook**](https://starpkmn.atabook.org)⠀⠀</sub></sup>
+<sup>[**rentry**](https://rentry.co/starpkm)⠀⠀✦⠀⠀[**atabook**](https://starpkmn.atabook.org)⠀✦⠀[**strawpage**](https://starpkmns.straw.page)
+</sub></sup>
+<div align="center">
+
 
 <div align="center"> 
   
