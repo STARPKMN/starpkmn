@@ -3,7 +3,7 @@
   
 <div align="center">
   
-[**rentry**](https://rentry.co/starpkm)⠀[**atabook**](https://starpkmn.atabook.org)⠀[**strawpage**](https://dawnstarr.straw.page)
+[**rentry**](https://rentry.co/starpkm)⠀[**atabook**](https://starpkmn.atabook.org)⠀[**strawpage**](https://starpkmmn.straw.page)
 
 <div align="center">
 
