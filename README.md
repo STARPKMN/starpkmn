@@ -1,15 +1,14 @@
+<div align="center">
+  
 <p align="center">
-<a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/gfnpe0.png" alt="N"></a>  
-  
-<div align="center">
-  
-[color my tree](https://colormytree.me/2025/01JE0ZKP8JDKNM4W4Q3F4M3S4V)🎄
-<div align="center">
-  
-[**rentry**](https://rentry.co/starpkm)⠀[**atabook**](https://starpkmn.atabook.org)⠀[**strawpage**](https://starpkmmn.straw.page)
 
+[strawpage](https://starpkmmn.straw.page/home1) ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎  ‎ ‎‎ ‎ ‎‎‎ ‎‎ ‎ ‎‎ [rentry](https://rentry.co/starpkm) ‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎‎‎‎[atabook](https://starpkmn.atabook.org)
 <div align="center">
 
-<div align="center"> 
   
-![](https://komarev.com/ghpvc/?username=starpkmn&color=db8b87&label=★&style=plastic&base=6924)
+<a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/5nyp3w.png" alt="N"></a>  
+<div align="center">
+
+  
+![](https://komarev.com/ghpvc/?username=starpkmn&color=000000&label=★&style=plastic&base=6924)
+<div align="center">
