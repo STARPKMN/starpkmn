@@ -6,7 +6,7 @@
 <div align="center">
 
   
-<a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/5nyp3w.png" alt="N"></a>  
+<a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/vdliuh.png" alt="N"></a>  
 <div align="center">
 
   
