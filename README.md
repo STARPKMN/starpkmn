@@ -7,9 +7,16 @@
 <a href="https://pokemondb.net/pokedex/lugia"><img src="https://files.catbox.moe/gw2vrg.png" width="200" height="200" alt="N"></a>  
 <div align="center">
   
-ㅤㅤ  [新book](https://starpkmn.atabook.org) ㅤ <img src="https://files.catbox.moe/srtg9i.png" width="40" height="40">  ㅤ [rentry](https://rentry.co/starpkm) ㅤㅤ 
+  [新book](https://starpkmn.atabook.org) 
+
+ㅤ  ㅤ [rentry](https://rentry.co/starpkm) ㅤ
+ㅤ 
+
+[strawpage](https://starpkmmn.straw.page/home1)
 <div align="center">
+
+<img src="https://files.catbox.moe/srtg9i.png" width="40" height="40">
   
-![](https://komarev.com/ghpvc/?username=starpkmn&color=bbb4ac&label=★&style=plastic&base=6924) 
+![](https://komarev.com/ghpvc/?username=starpkmn&color=B7EDE8&label=★&style=plastic&base=6924) 
 <div align="center">
 
