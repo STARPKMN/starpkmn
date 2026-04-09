@@ -6,7 +6,7 @@
 
 <div align="center">
 
-#### </sub>[RENTRY](starpkm)⠀⠀⠀⠀⠀⠀⠀[**新BOOK**](https://starpkmn.atabook.org/)⠀⠀⠀⠀⠀⠀⠀[**STRAWPAGE**](https://starpkmmn.straw.page/home1)</sub>
+#### </sub>[RENTRY](https://rentry.co/starpkm)⠀⠀⠀⠀⠀⠀⠀[**新BOOK**](https://starpkmn.atabook.org/)⠀⠀⠀⠀⠀⠀⠀[**STRAWPAGE**](https://starpkmmn.straw.page/home1)</sub>
 
 
 
